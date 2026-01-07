@@ -1,4 +1,4 @@
-# PEFT-VG
+# PEFT-JITCU
 An Empirical Study on Parameter-Efficient Fine-Tuning for Just-In-Time Comment Updating
 
 ## Install
